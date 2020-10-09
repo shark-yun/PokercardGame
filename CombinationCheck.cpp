@@ -53,7 +53,7 @@ int main()
 	}
 	
 
-	//sort(hand, hand + numOfCards);
+	sort(hand, hand + numOfCards);
 
 
 	if (containsFourOfaKind(hand)) {
